@@ -1,5 +1,5 @@
 # model
-Code for the paper ####. This paper proposes an ensembling method with Tree-structured Parzen Estimator (TPE) and achieving state-of-the-art performance on ogbl-ddi.
+Code for the paper Ensemble Learning for Graph Neural Networks. This paper proposes an ensembling method with Tree-structured Parzen Estimator (TPE) and achieving state-of-the-art performance on ogbl-ddi.
 
 ## Quick Start
 In this section, we offer a brief guide for getting started with replicating the results.
