@@ -1,14 +1,17 @@
 # model
 Code for the paper Ensemble Learning for Graph Neural Networks. This paper proposes an ensembling method with Tree-structured Parzen Estimator (TPE) and achieving state-of-the-art performance on ogbl-ddi.
 
-## Quick Start
-In this section, we offer a brief guide for getting started with replicating the results.
+## Quick Start 
+Here, we provide a quick start guide on how to reproduce the results.
 
-### Download our project
-
+### Download the project and install the required dependencies.
 ```bash
-git clone https://github.com/wongzhenhao/ogbl-ddi.git
+git clone https://github.com/wongzhenhao/ELGNN.git
+cd ELGNN
 pip install -r requirements.txt
 ```
-### Execute Code
-Execute the main.ipynb file for OGB dataset.
+### Run the Code
+Execute the code/main.ipynb file for OGB dataset.
+
+## License
+RelEns is released under the MIT license. Further details can be found [here](LICENSE).
