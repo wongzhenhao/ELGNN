@@ -1,5 +1,5 @@
 numpy
-ogb==1.2.4
+ogb==1.3.6
 hyperopt
 ray
 torch
