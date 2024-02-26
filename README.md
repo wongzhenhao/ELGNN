@@ -14,4 +14,4 @@ pip install -r requirements.txt
 Execute the code/main.ipynb file for OGB dataset.
 
 ## License
-RelEns is released under the MIT license. Further details can be found [here](LICENSE).
+ELGNN is released under the MIT license. Further details can be found [here](LICENSE).
